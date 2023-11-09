@@ -1,0 +1,136 @@
+{
+  "me": {
+    "text": "Hola! I was born on 05 January 2000 in Indonesia and I am\nLiving in Sidoarjo."
+  },
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "name": "Exercism",
+        "role": "Programing Mentor - Remote/Freelance",
+        "date": "April 2023 - September 2023",
+        "tasks": [
+          "Providing guidance and mentoring to junior programmers in facing complex task and projects.",
+          "Asisting junior programmers in improving their technical skills, such as programming, testing, and code management.",
+          "Offering emotional support to junior programmers, such as providing encouragement, motivation, and addressing self-doubt.",
+          "Providing feedback, this feedback can help junior programmers understand areas that need improvement and grow as a programmer."
+        ],
+        "quote" : "My main goals is to assist junior programmers in developing their skills, knowledge, and career as a competent and experienced programmer."
+      },
+      {
+        "name": "Investree",
+        "role": "Project-Based Intern : Fullstack Developer Virtual Experience - Internship",
+        "date": "Jully 2022 - August 2022",
+        "tasks": [
+          "Finishing tasks Restful API using Laravel Passport & Building a simple Blog using Laravel Framework and Implement to Laravel UI.",
+          "Build Rest API and oauth token using Laravel Framework ( Laravel Passport ).",
+          "Implement blade features as well as Laravel UI into the project."
+        ]
+      },
+      {
+        "name": "Kamar Pelajar",
+        "role": "Backend Web Developer - Remote/Internship",
+        "date": "March 2022 - Juny 2022, Stockholm",
+        "tasks": [
+          "Add features on the website Kamar Pelajar using framework Laravel.",
+          "Make daily and weekly reports using trello."
+        ]
+      },
+      {
+        "name": "PT Kaiyuki",
+        "role": "Junior Web Developer - Remote/Full Time",
+        "date": "September 2019 - December 2021, Indonesia",
+        "desc": "PT Kaiyuki is a company engaged in the production of teak flooring and shipped to various countries.",
+        "tasks": [
+          "Make the website SEO Friendly",
+          "Make the website so that it is not heavy when accessed by the user."
+        ]
+      },
+      {
+        "name": "FS Asia Raya",
+        "role": "Junior Web Developer - Remote/Full Time",
+        "date": "September 2019 - December 2021, Indonesia",
+        "desc": "FS Asia Raya is a company engaged in the production of teak flooring and shipped to various countries.",
+        "tasks": [
+          "Make the website SEO Friendly",
+          "Make the website so that it is not heavy when accessed by the user."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "milestones": [
+      {
+        "title": "FH Aachen | M. Eng. Information Systems Engineering",
+        "date": "since March 2022, Aachen",
+        "text": "Focus: Distributed Systems and Management"
+      },
+      {
+        "title": "FH Aachen | B. Sc. Computer Science",
+        "date": "September 2017 - February 2021, Aachen",
+        "text": "Bachelor of Science\nFocus: Software Engineering"
+      },
+      {
+        "title": "FOSBOS Aschaffenburg",
+        "date": "2012-2015, Aschaffenburg",
+        "text": "Technical Diploma\nFocus: technology, mathematics and natural sciences"
+      },
+      {
+        "title": "Realschule Bessenbach",
+        "date": "2008-2012, Bessenbach",
+        "text": "Medium Maturity\nFocus: mathematics and natural science"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "sections": [
+      {
+        "title": "Programming languages",
+        "skills": [
+          "JavaScript",
+          "Golang",
+          "PHP",
+          "HTML/CSS"
+        ]
+      },
+      {
+        "title": "Libraries and Frameworks",
+        "skills": [
+          "Node",
+          "Deno",
+          "Laravel",
+          "Codeigniter",
+          "Fresh"
+        ]
+      },
+      {
+        "title": "Further knowledge",
+        "skills": [
+          "Linux",
+          "Docker",
+          "Cyber Security",
+          "Traefik",
+          "Git",
+          "SQL"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "mail": "E-Mail",
+    "message": "Message",
+    "send": "Send",
+    "sent": "Thanks for the message!",
+    "failed": "Something went wrong :("
+  },
+  "footer": {
+    "imprint": "imprint",
+    "privacy": "privacy policy"
+  }
+}
